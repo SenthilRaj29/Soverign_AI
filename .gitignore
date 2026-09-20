@@ -1,0 +1,15 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+.pytest_cache/
+*.log
+audit_logs/*.jsonl
+node_modules/
+dist/
+build/
+qdrant_db/
+.venv/
+venv/
+*.sqlite
+*.db

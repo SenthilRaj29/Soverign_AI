@@ -1,0 +1,19 @@
+
+NOVA INDUSTRIAL SYSTEMS — SAFETY & LOCKOUT/TAGOUT (LOTO) PROCEDURE
+Document Ref: NOVA-SOP-2024-08
+Classification: Confidential - Internal Engineering Use Only
+Department: Safety & Operations
+
+1. PURPOSE & SCOPE
+This document outlines mandatory safety protocol for servicing high-pressure centrifugal pumps and turbine drive shafts. 
+
+2. LOCKOUT / TAGOUT (LOTO) MANDATORY STEPS
+Step 2.1: Isolate primary electrical power breaker at Substation-4. Apply lock #LOTO-RED.
+Step 2.2: Close suction and discharge valves V-101 and V-102. Depressurize housing to 0 PSI.
+Step 2.3: Verify zero movement of impeller.
+
+3. TEMPERATURE & VIBRATION OPERATIONAL LIMITS
+- Normal Operating Temperature: 60°C to 75°C.
+- Warning Threshold (Action Required): 80°C.
+- Critical Shutdown Threshold: 85°C. Continuous operation above 85°C risks bearing seizure and casing fracture.
+- Vibration Limit: RMS vibration above 4.5 mm/s indicates severe mechanical mis-alignment or shaft pitting. Immediate maintenance required.

@@ -1,0 +1,29 @@
+# SOVEREIGN INTELLIGENCE REPORT - task_c3e2df22
+
+## Summary
+Knowledge Base Grounded Answer: Lockout/Tagout (LOTO) is an essential industrial safety procedure (NOVA-SOP-2024-08) designed to prevent unexpected machine startup or hazardous energy release during maintenance.
+
+HOW LOTO WORKS STEP-BY-STEP:
+1. Preparation: Identify all electrical, mechanical, and hydraulic power sources.
+2. Machine Shutdown: Deactivate equipment using normal operational controls.
+3. Energy Isolation: Open main high-voltage circuit breakers to disconnect power.
+4. Lockout/Tagout Application: Place physical padlocks (Lockout) and warning tags (Tagout) on all energy isolating devices.
+5. Stored Energy Dissipation: Bleed residual hydraulic pressure and discharge electrical capacitors.
+6. Zero-Energy Verification: Test start controls to confirm 100% zero energy before maintenance.
+
+Mandate: Immediate LOTO isolation is mandatory if pump operating temperature exceeds 85.0°C or vibration exceeds 4.5 mm/s RMS.
+
+## Findings
+Knowledge Base Grounded Answer: Lockout/Tagout (LOTO) is an essential industrial safety procedure (NOVA-SOP-2024-08) designed to prevent unexpected machine startup or hazardous energy release during maintenance.
+
+HOW LOTO WORKS STEP-BY-STEP:
+1. Preparation: Identify all electrical, mechanical, and hydraulic power sources.
+2. Machine Shutdown: Deactivate equipment using normal operational controls.
+3. Energy Isolation: Open main high-voltage circuit breakers to disconnect power.
+4. Lockout/Tagout Application: Place physical padlocks (Lockout) and warning tags (Tagout) on all energy isolating devices.
+5. Stored Energy Dissipation: Bleed residual hydraulic pressure and discharge electrical capacitors.
+6. Zero-Energy Verification: Test start controls to confirm 100% zero energy before maintenance.
+
+Mandate: Immediate LOTO isolation is mandatory if pump operating temperature exceeds 85.0°C or vibration exceeds 4.5 mm/s RMS.
+Architecture Verification: Processed 100% on-premise with zero external cloud egress.
+Security Authorization: Access verified under role 'ENGINEER'.

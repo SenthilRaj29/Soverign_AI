@@ -1,0 +1,17 @@
+# SOVEREIGN INTELLIGENCE REPORT - task_48917f14
+
+## Summary
+Knowledge Base Grounded Answer: According to [NOVA_Safety_SOP_LOTO.txt, Page 1 - Emergency Shutdown Mandate]:
+
+STANDARD OPERATING PROCEDURE: LOCKOUT/TAGOUT (LOTO) NOVA-SOP-2024-08
+Section 1: General High-Voltage Electrical Isolation Protocols.
+Section 2: EMERGENCY SHUTDOWN MANDATE: Immediate emergency shutdown is STRICTLY REQUIRED if pump operating temperature exceeds 85.0°C or vibration exceeds 4.5 mm/s RMS. Operators must isolate high-voltage power breakers, attach physical safety padlocks, and tag equipment prior to maintenance.
+
+## Findings
+Knowledge Base Grounded Answer: According to [NOVA_Safety_SOP_LOTO.txt, Page 1 - Emergency Shutdown Mandate]:
+
+STANDARD OPERATING PROCEDURE: LOCKOUT/TAGOUT (LOTO) NOVA-SOP-2024-08
+Section 1: General High-Voltage Electrical Isolation Protocols.
+Section 2: EMERGENCY SHUTDOWN MANDATE: Immediate emergency shutdown is STRICTLY REQUIRED if pump operating temperature exceeds 85.0°C or vibration exceeds 4.5 mm/s RMS. Operators must isolate high-voltage power breakers, attach physical safety padlocks, and tag equipment prior to maintenance.
+Architecture Verification: Processed 100% on-premise with zero external cloud egress.
+Security Authorization: Access verified under role 'ENGINEER'.

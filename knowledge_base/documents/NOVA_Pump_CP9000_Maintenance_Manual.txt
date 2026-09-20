@@ -1,0 +1,18 @@
+
+NOVA INDUSTRIAL SYSTEMS — CENTRIFUGAL PUMP CP-9000 MAINTENANCE MANUAL
+Document Ref: NOVA-SPEC-CP9000
+Classification: Proprietary
+Department: Maintenance Engineering
+
+1. EQUIPMENT SPECIFICATIONS
+Model: CP-9000 Industrial Heavy-Duty Centrifugal Pump
+Rated Flow Rate: 1200 L/min
+Maximum Operating Pressure: 15 BAR
+
+2. INSPECTION PROCEDURE FOR CRACKING & CASING DAMAGE
+Visual characteristics consistent with surface damage, hairline fatigue fractures, or cavitation pitting on the outer volute casing must be tagged immediately. 
+If visual pitting or surface rust width exceeds 2.0mm, replacement of housing assembly CP-9000-HSG is required.
+
+3. SENSOR CALIBRATION & MAINTENANCE APPROVAL NOTE
+When temperature sensor T-201 exceeds 85°C concurrently with vibration sensor V-302 exceeding 4.5 mm/s:
+An Emergency Maintenance Approval Note must be prepared by the lead engineer and authorized by the Plant Manager before restarting operation.
